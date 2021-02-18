@@ -1,1 +1,8 @@
-{"headers": {"/*": { "X-Author": "kant-master" }}}
+{
+  "headers": {
+    "/*": {
+      "X-Author": "kant-master"
+      "Access-Control-Allow-Origin"
+    }
+  }
+}
