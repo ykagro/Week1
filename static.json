@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "kant-master"
+      "X-Author": "kant-master",
       "Access-Control-Allow-Origin": "*"
     }
   }
